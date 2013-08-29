@@ -22,7 +22,7 @@ npm install hex
 <a name="hex"></a>
 ___module_(buffer) : undefined__
 
-Pretty prints a Buffer. For debug purposes.
+Pretty prints a Buffer. For debugging purposes.
 
 ```javascript
 var hex = require ("hex");
