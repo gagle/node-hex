@@ -3,14 +3,8 @@
 	"version": "0.0.1",
 	"description": "Pretty prints a Buffer",
 	"keywords": ["pretty", "print", "buffer"],
-	"author": {
-		"name": "Gabriel Llamas",
-		"email": "gagle@outlook.com"
-	},
-	"repository": {
-		"type": "git",
-		"url": "git://github.com/gagle/node-hex.git"
-	},
+	"author": "Gabriel Llamas <gagle@outlook.com>",
+	"repository": "git://github.com/gagle/node-hex.git",
 	"engines": {
 		"node": ">=0.10"
 	},
