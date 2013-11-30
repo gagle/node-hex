@@ -5,7 +5,7 @@ _Node.js project_
 
 #### Pretty prints a Buffer ####
 
-Version: 0.0.1
+[![NPM version](https://badge.fury.io/js/hex.png)](http://badge.fury.io/js/hex "Fury Version Badge")
 
 #### Installation ####
 
