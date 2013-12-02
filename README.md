@@ -1,8 +1,6 @@
 hex
 ===
 
-_Node.js project_
-
 #### Pretty prints a Buffer ####
 
 [![NPM version](https://badge.fury.io/js/hex.png)](http://badge.fury.io/js/hex "Fury Version Badge")
