@@ -7,11 +7,7 @@ _Node.js project_
 
 [![NPM version](https://badge.fury.io/js/hex.png)](http://badge.fury.io/js/hex "Fury Version Badge")
 
-#### Installation ####
-
-```
-npm install hex
-```
+[![NPM installation](https://nodei.co/npm/hex.png?mini=true)](https://nodei.co/npm/hex "NodeICO Badge")
 
 #### Functions ####
 
