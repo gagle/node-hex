@@ -1,13 +1,13 @@
 {
-	"name": "hex",
-	"version": "0.0.1",
-	"description": "Pretty prints a Buffer",
-	"keywords": ["pretty", "print", "buffer"],
-	"author": "Gabriel Llamas <gagle@outlook.com>",
-	"repository": "git://github.com/gagle/node-hex.git",
-	"engines": {
-		"node": ">=0.10"
-	},
-	"license": "MIT",
-	"main": "lib"
+  "name": "hex",
+  "version": "0.0.1",
+  "description": "Pretty prints a Buffer",
+  "keywords": ["pretty", "print", "buffer"],
+  "author": "Gabriel Llamas <gagle@outlook.com>",
+  "repository": "git://github.com/gagle/node-hex.git",
+  "engines": {
+    "node": ">=0.10"
+  },
+  "license": "MIT",
+  "main": "lib"
 }
