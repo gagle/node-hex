@@ -1,7 +1,7 @@
 {
   "name": "hex",
   "version": "0.1.0",
-  "description": "Pretty prints a Buffer",
+  "description": "Pretty-prints a Buffer",
   "keywords": [
     "hex",
     "print",

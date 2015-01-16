@@ -1,12 +1,12 @@
 hex
 ===
 
-#### Pretty prints a Buffer ####
+#### Pretty-prints a Buffer ####
 
 [![npm][npm-image]][npm-url]
 
 ___module_(buffer) : undefined__  
-Pretty prints a Buffer. For debugging purposes.
+Prints the Buffer. No configuration, just give it a Buffer.
 
 ```javascript
 var hex = require('hex');
