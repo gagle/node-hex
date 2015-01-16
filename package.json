@@ -1,8 +1,12 @@
 {
   "name": "hex",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Pretty prints a Buffer",
-  "keywords": ["pretty", "print", "buffer"],
+  "keywords": [
+    "hex",
+    "print",
+    "buffer"
+  ],
   "author": "Gabriel Llamas <gagle@outlook.com>",
   "repository": "git://github.com/gagle/node-hex.git",
   "engines": {
